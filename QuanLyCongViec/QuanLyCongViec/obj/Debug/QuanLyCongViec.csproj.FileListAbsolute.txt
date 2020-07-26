@@ -1,0 +1,11 @@
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnQuanLyCongViec\QuanLyCongViec\QuanLyCongViec\bin\Debug\QuanLyCongViec.exe.config
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnQuanLyCongViec\QuanLyCongViec\QuanLyCongViec\bin\Debug\QuanLyCongViec.exe
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnQuanLyCongViec\QuanLyCongViec\QuanLyCongViec\bin\Debug\QuanLyCongViec.pdb
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnQuanLyCongViec\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.csprojAssemblyReference.cache
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnQuanLyCongViec\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.DangNhap.resources
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnQuanLyCongViec\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Properties.Resources.resources
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnQuanLyCongViec\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.csproj.GenerateResource.cache
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnQuanLyCongViec\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.csproj.CoreCompileInputs.cache
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnQuanLyCongViec\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.exe
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnQuanLyCongViec\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.pdb
+E:\C#\LapTrinhMoiTruongTrucQuan\DoAnQuanLyCongViec\QuanLyCongViec\QuanLyCongViec\obj\Debug\QuanLyCongViec.Admin.resources
